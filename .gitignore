@@ -1,0 +1,20 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+count.txt
+.env
+.nitro
+.tanstack
+.wrangler
+.output
+.vinxi
+todos.json
+
+# LLM rules
+.windsurfrules
+.github/copilot-instructions.md
+.cursor/rules/*
+.windsurf/rules/*
+.kiro/steering/*
