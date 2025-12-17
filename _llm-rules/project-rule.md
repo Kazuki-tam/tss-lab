@@ -11,7 +11,7 @@ alwaysApply: true
 - **Package Manager**: Bun
 - **Framework**: TanStack Start 1.132.0 with TanStack Router
 - **Language**: TypeScript 5.7.2
-- **Runtime**: React 19.2.0, React DOM 19.2.0
+- **Runtime**: React 19.2.3, React DOM 19.2.3
 - **Routing**: TanStack Router 1.132.0
 - **API Layer**: tRPC 11.4.3
 - **Server State**: TanStack Query 5.66.5
@@ -22,9 +22,9 @@ alwaysApply: true
 - **Styling Utilities**: class-variance-authority 0.7.1, clsx 2.1.1,
   tailwind-merge 3.0.2
 - **Icons**: lucide-react 0.544.0
-- **Build Tool**: Vite 7.1.7
+- **Build Tool**: Vite 7.3.0
 - **Linting & Formatting**: Biome 2.2.4
-- **Testing**: Vitest 3.0.5, Testing Library
+- **Testing**: Vitest 4.0.16, Testing Library
 
 ## Code Style and Structure
 
