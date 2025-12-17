@@ -24,14 +24,6 @@ export default function Header() {
 				>
 					GitHub
 				</a>
-				<a
-					href="https://tanstack.com/start"
-					target="_blank"
-					rel="noopener noreferrer"
-					className="text-gray-400 hover:text-white transition-colors text-sm"
-				>
-					Docs
-				</a>
 			</nav>
 		</header>
 	);

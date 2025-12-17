@@ -5,22 +5,22 @@ integrating TanStack Router, tRPC, TanStack Query, and TanStack Form.
 
 ## Tech Stack
 
-| Category                  | Technology               | Version |
-| ------------------------- | ------------------------ | ------- |
-| **Framework**             | TanStack Start           | 1.132.0 |
-| **Routing**               | TanStack Router          | 1.132.0 |
-| **API Layer**             | tRPC                     | 11.4.3  |
-| **Server State**          | TanStack Query           | 5.66.5  |
-| **Form Management**       | TanStack Form            | 1.0.0   |
-| **Validation**            | Zod                      | 4.1.11  |
-| **Runtime**               | React                    | 19.2.0  |
-| **Styling**               | Tailwind CSS             | 4.0.6   |
-| **UI Components**         | shadcn/ui + Radix UI     | -       |
-| **Build Tool**            | Vite                     | 7.1.7   |
-| **Package Manager**       | Bun                      | -       |
-| **Linting/Formatting**    | Biome                    | 2.2.4   |
-| **Testing**               | Vitest + Testing Library | 3.0.5   |
-| **Environment Variables** | T3Env                    | 0.13.8  |
+| Category                  | Technology               |
+| ------------------------- | ------------------------ |
+| **Framework**             | TanStack Start           |
+| **Routing**               | TanStack Router          |
+| **API Layer**             | tRPC                     |
+| **Server State**          | TanStack Query           |
+| **Form Management**       | TanStack Form            |
+| **Validation**            | Zod                      |
+| **Runtime**               | React                    |
+| **Styling**               | Tailwind CSS             |
+| **UI Components**         | shadcn/ui + Radix UI     |
+| **Build Tool**            | Vite                     |
+| **Package Manager**       | Bun                      |
+| **Linting/Formatting**    | Biome                    |
+| **Testing**               | Vitest + Testing Library |
+| **Environment Variables** | T3Env                    |
 
 ## Getting Started
 
