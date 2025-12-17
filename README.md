@@ -132,15 +132,6 @@ Site metadata (name, title, description, url) is centralized in
 
 Type-safe environment variables using T3Env. Define variables in `src/env.ts`.
 
-## Styling
-
-This project uses Tailwind CSS v4. Note the following syntax differences from
-v3:
-
-- Use `bg-linear-to-*` instead of `bg-gradient-to-*`
-- Use `shrink-0` instead of `flex-shrink-0`
-- Use `grow` instead of `flex-grow`
-
 ## Testing
 
 ```bash
