@@ -17,7 +17,7 @@ export default function Header() {
 
 			<nav className="flex items-center gap-4">
 				<a
-					href="https://github.com"
+					href="https://github.com/Kazuki-tam/tss-lab"
 					target="_blank"
 					rel="noopener noreferrer"
 					className="text-gray-400 hover:text-white transition-colors text-sm"
