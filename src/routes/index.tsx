@@ -4,8 +4,8 @@ import {
 	Layers,
 	Route as RouteIcon,
 	Server,
+	Settings,
 	Shield,
-	Zap,
 } from "lucide-react";
 import { siteInfo } from "../config/site";
 
@@ -20,18 +20,6 @@ function App() {
 			description: "Type-safe file-based routing",
 		},
 		{
-			id: "start",
-			icon: <Zap className="w-10 h-10 text-emerald-400" />,
-			title: "TanStack Start",
-			description: "SSR & Server Functions support",
-		},
-		{
-			id: "trpc",
-			icon: <Server className="w-10 h-10 text-emerald-400" />,
-			title: "tRPC",
-			description: "End-to-end type-safe APIs",
-		},
-		{
 			id: "query",
 			icon: <Database className="w-10 h-10 text-emerald-400" />,
 			title: "TanStack Query",
@@ -42,6 +30,18 @@ function App() {
 			icon: <Layers className="w-10 h-10 text-emerald-400" />,
 			title: "TanStack Form",
 			description: "Type-safe form management",
+		},
+		{
+			id: "t3env",
+			icon: <Settings className="w-10 h-10 text-emerald-400" />,
+			title: "T3Env",
+			description: "Type-safe environment variables",
+		},
+		{
+			id: "trpc",
+			icon: <Server className="w-10 h-10 text-emerald-400" />,
+			title: "tRPC",
+			description: "End-to-end type-safe APIs",
 		},
 		{
 			id: "tailwind",
@@ -70,7 +70,7 @@ function App() {
 					</div>
 
 					<p className="text-xl md:text-2xl text-gray-300 mb-4 font-light">
-						TanStack Start Full-Stack Starter Template
+						TanStack Full-Stack Starter Template
 					</p>
 
 					<p className="text-base text-gray-400 max-w-2xl mx-auto mb-8">
