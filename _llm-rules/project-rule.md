@@ -9,20 +9,20 @@ alwaysApply: true
 ## Technology Stack
 
 - **Package Manager**: Bun
-- **Framework**: TanStack Start 1.132.0 with TanStack Router
+- **Framework**: TanStack Start 1.146.3 with TanStack Router
 - **Language**: TypeScript 5.7.2
 - **Runtime**: React 19.2.3, React DOM 19.2.3
-- **Routing**: TanStack Router 1.132.0
-- **API Layer**: tRPC 11.4.3
-- **Server State**: TanStack Query 5.66.5
-- **Form Management**: TanStack Form 1.0.0
-- **Form Validation**: Zod 4.1.11
+- **Routing**: TanStack Router 1.146.2
+- **API Layer**: tRPC 11.8.1
+- **Server State**: TanStack Query 5.90.16
+- **Form Management**: TanStack Form 1.27.7
+- **Form Validation**: Zod 4.3.5
 - **UI Components**: shadcn/ui with Radix UI
-- **Styling**: Tailwind CSS 4.0.6
+- **Styling**: Tailwind CSS 4.1.18
 - **Styling Utilities**: class-variance-authority 0.7.1, clsx 2.1.1,
-  tailwind-merge 3.0.2
-- **Icons**: lucide-react 0.544.0
-- **Build Tool**: Vite 7.3.0
+  tailwind-merge 3.4.0
+- **Icons**: lucide-react 0.562.0
+- **Build Tool**: Vite 7.3.1
 - **Linting & Formatting**: Biome 2.2.4
 - **Testing**: Vitest 4.0.16, Testing Library
 

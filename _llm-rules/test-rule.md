@@ -10,7 +10,7 @@ When you are testing this project, please follow these guidelines:
 
 ## Testing Stack
 
-- **Test Runner**: Vitest 3.0.5
+- **Test Runner**: Vitest 4.0.16
 - **Component Testing**: Testing Library (React)
 - **E2E Testing**: Playwright (optional)
 - **Assertion**: Vitest built-in assertions
